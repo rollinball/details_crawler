@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "googleapis": "^30.0.0",
+    "node-fetch": "^2.1.2"
+  }
+}
