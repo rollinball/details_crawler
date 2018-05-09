@@ -1,3 +1,4 @@
+// creer un search engine a l'url https://cse.google.com/cse/all avec pour Schema Type "Thing"
 import { GoogleApis, customsearch_v1 } from 'googleapis';
 import { AxiosResponse } from 'axios';
 
